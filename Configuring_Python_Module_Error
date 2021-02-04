@@ -15,6 +15,8 @@ now we we know the path of python 2.7 where the modules being stored
 
 now the command will be for installing the module in python 2.7 is
 
+pip install module_name(as example requests) -t "/usr/lib/python2.7/dist-packages"
+
 pip install requests -t "/usr/lib/python2.7/dist-packages"
 
 problem solved
@@ -30,7 +32,9 @@ now we we know the path of python 2.7 where the modules being stored
 
 /usr/lib/python3.7/dist-pakages
 
-now the command will be for installing the module in python 2.7 is
+now the command will be for installing the module in python 3 or upper is
+
+pip3 install module_name(as example requests) -t "/usr/lib/python2.7/dist-packages"
 
 pip3 install requests -t "/usr/lib/python3/dist-packages"
 
