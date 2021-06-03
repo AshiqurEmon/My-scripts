@@ -1,2 +1,1 @@
-# Python-module-configuration
-some times in kali linux or linux dirsto when we try to execute a module it says module is not found at the same time we try to install the module it says module is already exist it means in a specific place module is not installed so need to specify the path where the pakage will be installed then when we will run the command python will read the specific location and fetch the module for use 
+some fun scripts for increase efficiency in recon
