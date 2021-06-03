@@ -1,1 +1,1 @@
-some fun scripts for increase efficiency in recon
+some fun scripts for increase efficiency in bug hunting recon
