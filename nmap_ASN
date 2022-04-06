@@ -1,3 +1,5 @@
 #!/bin/bash
 ip=$1
 nmap --script targets-asn --script-args targets-asn.asn=$1 -vv | tee -a asn_ip
+
+#nmap --script targets-asn --script-args targets-asn.asn=14061
